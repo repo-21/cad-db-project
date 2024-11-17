@@ -1,0 +1,102 @@
+Cad Jewellery Data Base (B2B)
+1)Cad Designers
+2)RPT Printer
+3)Jewellers
+
+Pros & Cons
+
+of CAD Designer 
+
+1) Market Exposure Limitations 
+2) Data Storage Limitations 
+3) Time used in sending file for printing and billing 
+4) Huge collections of jewellery CAD file in unit 10000 plus, in storage 2 TB.
+5) Very difficult to locate the old files for repeat orders.
+6) Have to used 3rd party link to send big files
+
+of RPT Printer
+
+1) Huge Order available
+2) Exposer in limited city in India.
+
+Jewellers 
+
+1) Not direct contact with CAD Designers except few cities like Surat , Mumbai 
+2) Designs Limitations 
+3) Time Limitations, need work fast
+4) Due to CAD there old setup of handwork is vanishing and buying readymade jewellery
+
+What we can do
+
+For CAD Designer
+1) One plateform to send file to RPT print (e-mail) also large file
+2) Direct billing to the buyers
+3) Locating the file with Image search AI
+4) Storing their data on cloud
+5) The CAD software used by designers are mostly pirated 
+6) The design developed are moslty copied
+
+For RPT
+1) Giving order to them on commission 
+2) Installing RPT printer in India
+
+For Jeweller
+1) Giving access for huge designs
+2) Direct RPT order and courier to their place
+3) Time saving 
+4) No need to develop repeat desing
+
+Profit
+
+Cad Designer 
+
+1) Can sell there idle saved designs 
+
+RPT 
+
+1) More RPT order
+
+Jewellers 
+
+1) Time Save
+
+Ours
+
+1) Exposure to whole India and World Market
+
+2) Commission on every sale
+
+3) Subscriptions Fees
+
+4) RPT installation 
+
+5) Advertisement
+
+
+Note:
+
+The file saved by CAD designer is in 
+- CAD software accessible formate
+- ⁠STL files for need for RPT printing
+- ⁠Image to send to Jewelers
+
+
+We will sell the 
+
+- STL files (Which is irreversible and cannot be edited, like PDF) only used for RPT printing 
+- ⁠RPT mold
+
+
+
+Addition in app 
+
+1) CAD designer manage order 
+Received/ on hold/ Completed/ Billed/ Cancelled….
+2) RPT similar
+3) Jeweler Trade Or Manufacture Give Order with detail/ Time management/ Completion/ Cancellation etc
+
+checkout:
+resources/ring-cad-design-spec.jpg]
+resources/ring-cad-render1.jpg
+resources/ring-on-hand.jpg
+resources/RING.stl
